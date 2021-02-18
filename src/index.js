@@ -23,7 +23,6 @@ ReactDOM.render(
       FileInput={FileInput}
       DBService={DBService}
     />
-    ;{/* 컴포넌트 프롭 */}
   </React.StrictMode>,
   document.getElementById('root')
 );
